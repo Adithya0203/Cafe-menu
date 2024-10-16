@@ -1,3 +1,3 @@
-#cafe menu landing page#
+# cafe menu landing page #
 
 a sample cafe menu created using ReactJS
